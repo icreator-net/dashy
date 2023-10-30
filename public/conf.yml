@@ -1,13 +1,13 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
+  title: Quick
   description: Welcome to your new dashboard!
   navLinks:
-  - title: GitHub
-    path: https://github.com/Lissy93/dashy
-  - title: Documentation
-    path: https://dashy.to/docs
+  - title: 
+    path: 
+  - title: 
+    path: 
 
 # Optional app settings and configuration
 appConfig:
