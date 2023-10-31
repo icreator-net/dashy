@@ -7,10 +7,7 @@
       Using: {{ $store.state.currentConfigInfo.confPath }}
     </span>
     <span>
-      {{ $t('footer.dev-by') }} <a :href="authorUrl">{{authorName}}</a>.
-      {{ $t('footer.licensed-under') }} <a :href="licenseUrl">{{license}}</a>
-      {{ showCopyright? '©': '' }} {{date}}.
-      {{ $t('footer.get-the') }} <a :href="repoUrl">{{ $t('footer.source-code') }}</a>.
+       ©2020-2023 Quick.cc
     </span>
   </footer>
 </template>
